@@ -3,3 +3,5 @@ This is release to understand GIT
 version 1 features added
 
 bug found in version 1 features. now all bugs fixed
+
+version 2 features added
